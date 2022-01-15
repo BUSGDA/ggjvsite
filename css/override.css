@@ -43,4 +43,5 @@ th {
 .company-logo-image {
     max-width: 10em;
     height: auto;
+    margin: 1em;
 }
